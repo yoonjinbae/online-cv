@@ -45,12 +45,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have studied finance, technology, data mining, and optimization at university. I am
+      looking for a job field where I can apply my knowledge and interest in finance, technology, and
+      data analysis. After exchange program in England, I realized how it is valuable to meet people in
+      different backgrounds, countries, and cultures.
+      I am a good fit for Data Scientist/Web Developer role for following reasons.
+        - Leadership: Acted as a group leader of university society-KUISA-which assists international students at Korea University.
+        - Knowledge: Conducted team projects in courses: Optimization Application, Human Interface, Marketing, Data Mining, Capstone Design.
+        - Creativity: Got Awarded in the marketing contest, the ideation contest, and the worldwide correspondent
+        - Computer skills: Have data analysis skills with R, SAS, SPSS, and Excel.
+        - Global Experience: Completed an exchange program in UK and traveled over 20 countries.
 education:
     - degree: MSc in Industrial Management Engineering
       university: Korea University
