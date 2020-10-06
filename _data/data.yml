@@ -7,43 +7,40 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Jeewon Bae
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: jeewon.bae.09@gmail.com
+    phone: 010 3403 2293
+    website: baefilm.tumblr.com #do not add http://
+    linkedin: 지원-배-3830a7152
+    github: jeewonb
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Advanced
 
     interests:
+      - item: Tennis
+        link:
+
       - item: Climbing
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Film photography
+        link: baefilm.tumblr.com
 
 career-profile:
     title: Career Profile
@@ -55,66 +52,43 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Industrial Management Engineering
+      university: Korea University
+      time: Jan 2013 - August 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Bachelor of Industrial Management Engineering
+          - Cumulative GPA: 3.42/4.50
+          - Major GPA: 3.67/4.50
+    - degree: Major in Industrial Management Engineering
+      university: Aston University
+      time: Jan 2016 - Jul 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Exchange Student Program 
+          - Phtography Club
+          - Badminton Club
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Programmer, Smart Factory Solution Dept.
+      time: Jun 2018 - Present
+      company: LG CNS, Seoul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Involved in web development - Manufacturing Execution System (C#) 
+          - Involved in web development, middleware queueing, and log analysis (ReactJS, JQuery, Elasticsearch, Solace, Java, Spring Boot)ß
+    - role: Summer Analyst, Branch Sales Dept.
+      time: Jun 2017 – Aug 2017
+      company: Citibank Korea Inc., Seoul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Internship Project ‘Digital Onboarding Strategy’
+          - Suggested an easier and intuitive banking process with future banking technologies and made a presentation to the executives of Citibank consumer banking group
+          - Assisted in managing daily MIS for transformation plan
+          - Worked as a digital banking ambassador in Dogok Center and Jamsil World Branch for two weeks and communicated with about 14 customers a day
+    - role: Research Assistant
+      time: Feb 2018 – April 2018
+      company: Roland Berger Strategy Consultants, Seoul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Automotive Business Process Development for Global Tier-1 IVI and Battery Manufacturer (Phase II)
+          - Assisted in designing Excel checklist and process management system
+          - Researched and organized project-related information as PowerPoint and Excel
+          - Facilitated workshop by translating and preparing workshop materials
 projects:
     title: Projects
     intro: >
