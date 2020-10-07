@@ -98,7 +98,7 @@ projects:
     intro: >
     assignments:
       - title: Predicting Dating Period and Analyzing Key Factors of Realtionship
-        link: "/dating"
+        link: "dating.pdf"
         tagline: "  We found the important factors that affects dating period and predicted dating period. 
         First, we asked 21 questions about realtionship to 311 college students. 
         The questions included religion, major, how often they meet, distance between smoking habit. 
