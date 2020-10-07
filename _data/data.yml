@@ -106,7 +106,7 @@ projects:
         The most reliable algorthm is 'Multiple Linear Regression Model' with the highest RMSE(542.75714) compared to other two algorithms."
         
       - title: Machine Learning for Breast Cancer Diagnosis and Prognosis
-        # link: "#"
+        link: "breastCancer.pdf"
         tagline: "  논문 『O. L. Mangasarian, W. N. Street, and W. H.Wolberg. Breast cancer diagnosis and prognosis via linear programming. Operations Research,43(4):570{577, July-August 1995.』을 참고하여 
         첫 번째로는 논문에 소개된 MSM(Multisurface Method) 모델식을 변형하여 새로운 비선형 계획법 모델을 세워 정확도를 비교하였다.
         두 번째로 569개와 예후 데이터 196개를 다양한 방법의 데이터 마이닝을 이용하여 분석하였다. 
