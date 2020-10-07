@@ -56,18 +56,17 @@ career-profile:
         - Computer skills: Have data analysis skills with R, SAS, SPSS, and Excel.
         - Global Experience: Completed an exchange program in UK and traveled over 20 countries.
 education:
-    - degree: MSc in Industrial Management Engineering
+    - degree: B.S. in Industrial Management Engineering
       university: Korea University
       time: Jan 2013 - August 2018
       details: |
           - Bachelor of Industrial Management Engineering
           - Cumulative GPA: 3.42/4.50
           - Major GPA: 3.67/4.50
-    - degree: Major in Industrial Management Engineering
+    - degree: Exchange Student in Industrial Management Engineering
       university: Aston University
       time: Jan 2016 - Jul 2016
       details: |
-          - Exchange Student Program 
           - Phtography Club
           - Badminton Club
 experiences:
