@@ -113,9 +113,11 @@ projects:
         예후 알고리즘으로는 공신경망, 회귀 트리, 로지스틱 회귀를 사용하였다.
         * 논문 『O. L. Mangasarian, W. N. Street, and W. H.Wolberg. Breast cancer diagnosis and prognosis via linear programming. Operations Research,43(4):570{577, July-August 1995.』"
 
-#       - title: Tempo
-#         #link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Optimization of Jindo VTS Shift System
+        link: "assets/jindo.pdf"
+        tagline: "또 다른 세월호 참사를 방지하기 위해 진도의 VTS 교대 근무 시스템을 최적화하는 방안에 대한 프로젝트를 진행하였다. 
+        2014년 당시 12명의 관제사가 3교대를 하고 있었으며 근무 환경이 좋지 않았음을 알 수 있었다. 따라서 근무 효율을 높이기 위한 
+        새로운 교대 시스템을 제안하였다."
 
 #       - title: Atom
 #         # link: "#"
