@@ -108,11 +108,11 @@ projects:
         link: "assets/breastCancer.pdf"
         tagline: "1) Reconstructured MSM(Multisurface Method) model for diagnosing and prognosing breast cancer.
         2) Classified diagnosing breast cancer with ANN classification, and classification tree. 
-        3) Analyzed prognosing breast cancer with ANN regression, regression tree, and logistic regression.
+        3) Analyzed prognosing breast cancer with ANN regression, regression tree, and logistic regression."
 
       - title: Optimization of Jindo VTS Shift System
         link: "assets/jindo.pdf"
-        tagline: "Proposed a new shift system for Jindo VTS to optimize and enhance work envionments."
+        tagline: "Proposed a new shift plan for Jindo VTS to optimize and enhance work envionments."
 
       - title: Classifying Abusing Articles
         link: "assets/abusing.pdf"
