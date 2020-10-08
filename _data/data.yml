@@ -106,13 +106,12 @@ projects:
         
       - title: Machine Learning for Breast Cancer Diagnosis and Prognosis
         link: "assets/breastCancer.pdf"
-        tagline: "  논문 『O. L. Mangasarian, W. N. Street, and W. H.Wolberg. Breast cancer diagnosis and prognosis via linear programming. Operations Research,43(4):570{577, July-August 1995.』을 참고하여 
-        첫 번째로는 논문에 소개된 MSM(Multisurface Method) 모델식을 변형하여 새로운 비선형 계획법 모델을 세워 정확도를 비교하였다.
-        두 번째로 569개와 예후 데이터 196개를 다양한 방법의 데이터 마이닝을 이용하여 분석하였다. 
-        진단 알고리즘으로는 ANN Classification을 적용하여 97.66%의 정확도를 얻고, 분류 트리로 분류하는 경우 93.23%의 정확도를 얻었다.
-        예후 알고리즘으로는 공신경망, 회귀 트리, 로지스틱 회귀를 사용하였다. 인공신경망의 정확도는 0.429, 분류 트리의 정확도는 0.315, 
-        로지스틱 회귀의 정확도는 0.23가 나왔다. 전체 데이터 수가 194개로 많지 않고, 이 중에 Non-recurrent로 분류될 확률 78%, Recurrent로 분류될 확률이 22%로 
-        재발 환자의 데이터가 너무 적어서 모델의 training이 제대로 되지 않기 때문이다."
+        tagline: "논문 을 참고하여 
+        - 논문 『Breast cancer diagnosis and prognosis via linear programming』에 소개된 MSM(Multisurface Method) 모델식을 변형하여 
+        새로운 비선형 계획법 모델을 세워 정확도를 비교하였다. 또한 569개와 예후 데이터 196개를 데이터 마이닝을 이용하여 분석하였다. 
+        진단 알고리즘으로는 ANN Classification, 분류 트리를 사용하였으며,
+        예후 알고리즘으로는 공신경망, 회귀 트리, 로지스틱 회귀를 사용하였다.
+        * 논문 『O. L. Mangasarian, W. N. Street, and W. H.Wolberg. Breast cancer diagnosis and prognosis via linear programming. Operations Research,43(4):570{577, July-August 1995.』"
 
 #       - title: Tempo
 #         #link: "#"
