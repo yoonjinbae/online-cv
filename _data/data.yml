@@ -101,7 +101,7 @@ projects:
         tagline: "1) Categorized and classified abusing articles with LDA and decision tree algorithm. 
         2) Analyzed correlationship between political news and celebrities gossip using association rule."
       
-    - title: Machine Learning for Breast Cancer Diagnosis and Prognosis (2015)
+      - title: Machine Learning for Breast Cancer Diagnosis and Prognosis (2015)
         link: "assets/breastCancer.pdf"
         tagline: "1) Reconstructured MSM(Multisurface Method) model for diagnosing and prognosing breast cancer.
         2) Classified diagnosing breast cancer with ANN classification, and classification tree. 
