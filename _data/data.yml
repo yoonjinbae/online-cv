@@ -94,30 +94,32 @@ experiences:
           - Facilitated workshop by translating and preparing workshop materials
 projects:
     title: Projects
-    intro: >
+    intro: Check the link in title
     assignments:
-      - title: Predicting Dating Period and Analyzing Key Factors of Realtionship
+      - title: Classifying Abusing Articles (2016)
+        link: "assets/abusing.pdf"
+        tagline: "1) Categorized and classified abusing articles with LDA and decision tree algorithm. 
+        2) Analyzed correlationship between political news and celebrities gossip using association rule."
+      
+    - title: Machine Learning for Breast Cancer Diagnosis and Prognosis (2015)
+        link: "assets/breastCancer.pdf"
+        tagline: "1) Reconstructured MSM(Multisurface Method) model for diagnosing and prognosing breast cancer.
+        2) Classified diagnosing breast cancer with ANN classification, and classification tree. 
+        3) Analyzed prognosing breast cancer with ANN regression, regression tree, and logistic regression."
+        
+      - title: Predicting Dating Period and Analyzing Key Factors of Realtionship (2014)
         link: "assets/dating.pdf"
         tagline: "  We found the important factors that affects dating period and predicted dating period. 
         First, we asked 21 questions about realtionship to 311 college students. 
         The questions included religion, major, how often they meet, distance between smoking habit. 
         Then we analyzed the results with the following three algorithms - Multiple Linear Regression, K-NN Clustering, and CART. 
         The most reliable algorthm is 'Multiple Linear Regression Model' with the highest RMSE(542.75714) compared to other two algorithms."
-        
-      - title: Machine Learning for Breast Cancer Diagnosis and Prognosis
-        link: "assets/breastCancer.pdf"
-        tagline: "1) Reconstructured MSM(Multisurface Method) model for diagnosing and prognosing breast cancer.
-        2) Classified diagnosing breast cancer with ANN classification, and classification tree. 
-        3) Analyzed prognosing breast cancer with ANN regression, regression tree, and logistic regression."
 
-      - title: Optimization of Jindo VTS Shift System
+      - title: Optimization of Jindo VTS Shift System (2014)
         link: "assets/jindo.pdf"
         tagline: "Proposed a new shift plan for Jindo VTS to optimize and enhance work envionments."
 
-      - title: Classifying Abusing Articles
-        link: "assets/abusing.pdf"
-        tagline: "1) Categorized and classified abusing articles with LDA and decision tree algorithm. 
-        2) Analyzed correlationship between political news and celebrities gossip using association rule."
+      
         
 #       - title: Delta
 #         # link: "#"
