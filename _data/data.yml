@@ -111,8 +111,7 @@ projects:
         link: "assets/dating.pdf"
         tagline: "1) Analyzed important factors that affects dating period and predicted dating period based on
         21 questions with 311 college students. 
-        2) Used following three algorithms - Multiple Linear Regression, K-NN Clustering, and CART. 
-        The most reliable algorthm is 'Multiple Linear Regression Model' with the highest RMSE(542.75714) compared to other two algorithms."
+        2) Used following three algorithms - Multiple Linear Regression, K-NN Clustering, and CART."
 
       - title: Optimization of Jindo VTS Shift System (2014)
         link: "assets/jindo.pdf"
