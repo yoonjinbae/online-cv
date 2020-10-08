@@ -109,10 +109,9 @@ projects:
         
       - title: Predicting Dating Period and Analyzing Key Factors of Realtionship (2014)
         link: "assets/dating.pdf"
-        tagline: "  We found the important factors that affects dating period and predicted dating period. 
-        First, we asked 21 questions about realtionship to 311 college students. 
-        The questions included religion, major, how often they meet, distance between smoking habit. 
-        Then we analyzed the results with the following three algorithms - Multiple Linear Regression, K-NN Clustering, and CART. 
+        tagline: "1) Analyzed important factors that affects dating period and predicted dating period based on
+        21 questions with 311 college students. 
+        2) Used following three algorithms - Multiple Linear Regression, K-NN Clustering, and CART. 
         The most reliable algorthm is 'Multiple Linear Regression Model' with the highest RMSE(542.75714) compared to other two algorithms."
 
       - title: Optimization of Jindo VTS Shift System (2014)
