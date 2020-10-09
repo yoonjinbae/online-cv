@@ -53,7 +53,7 @@ education:
       university: 연세대학교
       time: 2011.03 - 2016.08
       details: |
-       [졸업작품] 
+        [졸업작품] 
           - 제 10회 연세대학교 시각디자인학과 졸업전시회
           - Amy Winehouse 재즈뮤지션 헌정 앨범 디자인
    
@@ -137,7 +137,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Check the portfolio below :)
+      Check the portfolio below.
     assignments:
       - title: Portfolio
         link: "https://drive.google.com/file/d/1S-DzpR-sgzrUuWiho5vRAQsaoHwvGy28/view"
