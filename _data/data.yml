@@ -42,32 +42,21 @@ sidebar:
       - item: Reading
         link:
 
-career-profile:
-    title: 타이틀 (tbd)
-    summary: |
-      브랜딩/그래픽 디자이너, 배윤진입니다.
+# career-profile:
+#     title: 타이틀 (tbd)
+#     summary: |
+#       브랜딩/그래픽 디자이너, 배윤진입니다.
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 시각디자인학과
+      university: 연세대학교
+      time: 2011.03 - 2016.08
       details: |
-       
-
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       [졸업작품] 
+          - 제 10회 연세대학교 시각디자인학과 졸업전시회
+          - Amy Winehouse 재즈뮤지션 헌정 앨범 디자인
+   
 experiences:
     - role: 디자이너
       time: 2018.01-2019.02
@@ -151,8 +140,8 @@ projects:
       Check the portfolio below :)
     assignments:
       - title: Portfolio
-        link: "assets/portfolio.pdf"
-        tagline: " :) "
+        link: "https://drive.google.com/file/d/1S-DzpR-sgzrUuWiho5vRAQsaoHwvGy28/view"
+        tagline: "portfolio"
 
 # publications:
 #     title: Publications
