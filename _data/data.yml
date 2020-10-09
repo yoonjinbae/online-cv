@@ -47,7 +47,15 @@ sidebar:
 #     summary: |
 #       브랜딩/그래픽 디자이너, 배윤진입니다.
 
-
+projects:
+    title: Projects
+    intro: >
+      Check the portfolio below.
+    assignments:
+      - title: Portfolio
+        link: "https://drive.google.com/file/d/1S-DzpR-sgzrUuWiho5vRAQsaoHwvGy28/view"
+        tagline: "portfolio"
+        
 education:
     - degree: 시각디자인학과
       university: 연세대학교
@@ -133,15 +141,6 @@ experiences:
         (담당했던 프로그램: 트로트X, 디스이즈인피니트, 레인이펙트)
           - 홍보용 SNS 컨텐츠 디자인
           - 영상 편집 및 후보정 작업
- 
-projects:
-    title: Projects
-    intro: >
-      Check the portfolio below.
-    assignments:
-      - title: Portfolio
-        link: "https://drive.google.com/file/d/1S-DzpR-sgzrUuWiho5vRAQsaoHwvGy28/view"
-        tagline: "portfolio"
 
 # publications:
 #     title: Publications
