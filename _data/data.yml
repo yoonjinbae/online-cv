@@ -54,7 +54,7 @@ projects:
     assignments:
       - title: Portfolio
         link: "https://drive.google.com/file/d/1S-DzpR-sgzrUuWiho5vRAQsaoHwvGy28/view"
-        tagline: "portfolio"
+#         tagline: ""
         
 education:
     - degree: 시각디자인학과
