@@ -46,15 +46,6 @@ sidebar:
 #     title: 타이틀 (tbd)
 #     summary: |
 #       브랜딩/그래픽 디자이너, 배윤진입니다.
-
-projects:
-    title: Projects
-    intro: >
-      Check the portfolio below.
-    assignments:
-      - title: Portfolio
-        link: "https://drive.google.com/file/d/1S-DzpR-sgzrUuWiho5vRAQsaoHwvGy28/view"
-#         tagline: ""
         
 education:
     - degree: 시각디자인학과
@@ -108,7 +99,6 @@ experiences:
           - 소품 구매 및 촬영 연출 진행
           - 촬영 후 보정 작업
        
-          - Bullet point
     - role: 디자이너
       time: 2017.05 - 2017.09
       company: LVI Design
@@ -141,6 +131,20 @@ experiences:
         (담당했던 프로그램: 트로트X, 디스이즈인피니트, 레인이펙트)
           - 홍보용 SNS 컨텐츠 디자인
           - 영상 편집 및 후보정 작업
+
+projects:
+    title: Projects
+    intro: >
+      Check the link below.
+    assignments:
+      - title: Portfolio
+        link: "https://drive.google.com/file/d/1S-DzpR-sgzrUuWiho5vRAQsaoHwvGy28/view"
+        
+    assignments:
+      - title: Illustration
+        link: "https://instagram.com/btaste"
+        
+#         tagline: ""
 
 # publications:
 #     title: Publications
